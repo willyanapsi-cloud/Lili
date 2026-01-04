@@ -1,0 +1,7 @@
+{
+  "name": "FitScan AI - Contador de Calorias por Foto",
+  "description": "Uma ferramenta inteligente que analisa suas refeições por foto, fornecendo informações nutricionais completas e recomendações de exercícios personalizados para queimar as calorias consumidas.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
